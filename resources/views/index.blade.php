@@ -25,7 +25,7 @@
               <label class="form-check-label" for="form1Example3"> Remember password </label>
             </div>
 
-            <button class="btn btn-primary btn-lg btn-block" type="submit">Login</button>
+            <a class="btn btn-primary" href="/home" role="button">Login</a>
 
             <hr class="my-4">
 
